@@ -36,11 +36,6 @@ A classic Tic Tac Toe game built with **vanilla JavaScript**, **HTML5**, and **C
 
 Try it live: [https://kashish049.github.io/TIC-TAC--TOE/](https://kashish049.github.io/TIC-TAC--TOE/)
 
-[Gameplay Screenshot](https://github.com/user-attachments/assets/2dcfc9e6-df12-42d0-99af-ba442a24fb59)
-![image](https://github.com/user-attachments/assets/1564ab58-ba2c-435c-b5d4-3727b442c8b7)
-
-
-
 ---
 
 ## Tech Stack
